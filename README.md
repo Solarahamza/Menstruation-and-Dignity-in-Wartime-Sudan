@@ -55,7 +55,8 @@ Key findings showed that:
 
 These findings highlight how dignity can be eroded not only through suffering, but through the normalisation of that suffering.
 
-![Pads saving dignity](figures/ELO2 (3).png)
+![Pads saving dignity](figures/ELO2 (3).png
+
 
 ## Author
 Solara Hamza  
