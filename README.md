@@ -14,7 +14,7 @@ This analysis helps reveal not only material barriers such as cost and availabil
 
 ## Research Question
 What factors influence whether Sudanese women perceive their menstrual dignity as affected during the war?
-![menstrual dignity](figures/ELO2 (5).png)
+![menstrual dignity](figures/Dignity.png)
 
 ## Goals of the Project
 - Document changes in menstrual product use during the war  
@@ -54,7 +54,7 @@ Key findings showed that:
 
 These findings highlight how dignity can be eroded not only through suffering, but through the normalisation of that suffering.
 
-![Pads saving dignity](figures/ELO2 (3).png)
+![Pads saving dignity](figures/Umbrella.png)
 
 
 ## Author
