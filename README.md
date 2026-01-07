@@ -1,7 +1,6 @@
 # “I Prayed Not to Get My Period”
 ## Menstruation and Dignity in Wartime Sudan
 
-## Subject
 This repository explores whether menstrual dignity among Sudanese women has been affected during the ongoing war, and which factors most strongly influence women’s perceptions of dignity while managing their menstrual cycles in displacement and conflict settings.
 
 ## Introduction
@@ -56,3 +55,21 @@ Key findings showed that:
 These findings highlight how dignity can be eroded not only through suffering, but through the normalisation of that suffering.
 
 ## Repository Structure
+├── README.md # Project documentation
+│
+├── notebooks/ # Google Colab notebooks
+│ ├── 01_DataExploration.ipynb
+│ ├── 02_DataPreprocessing.ipynb
+│ ├── 03_ModelTraining.ipynb
+│ ├── 04_Explainability.ipynb
+│
+├── data/ # Survey data (anonymised)
+├── figures/ # Plots and visualisations
+
+## Author
+Solara Hamza  
+Healthcare and data professional  
+Founder of No Shame  
+
+## License
+You are welcome to use and adapt the code in this repository with proper attribution.
