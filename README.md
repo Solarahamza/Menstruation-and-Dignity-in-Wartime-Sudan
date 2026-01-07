@@ -1,6 +1,6 @@
 # “I Prayed Not to Get My Period”
 ## Menstruation and Dignity in Wartime Sudan
-
+![Introduction](figures/ELO2.png)
 This repository explores whether menstrual dignity among Sudanese women has been affected during the ongoing war, and which factors most strongly influence women’s perceptions of dignity while managing their menstrual cycles in displacement and conflict settings.
 
 ## Introduction
@@ -15,6 +15,7 @@ This analysis helps reveal not only material barriers such as cost and availabil
 
 ## Research Question
 What factors influence whether Sudanese women perceive their menstrual dignity as affected during the war?
+![menstrual dignity](figures/ELO2 (5).png)
 
 ## Goals of the Project
 - Document changes in menstrual product use during the war  
@@ -25,7 +26,7 @@ What factors influence whether Sudanese women perceive their menstrual dignity a
 
 ## Methodology
 The analysis is based on survey data collected from 151 Sudanese women, 90 percent of whom were displaced or refugees at the time of participation.
-
+![Mother And Daughter](figures/ELO2 (4).png)
 ### Data Exploration
 Initial exploration focused on participant demographics, displacement status, menstrual product use before and during the war, reported health symptoms, and access barriers related to cost, availability, quality, hygiene, privacy, and disposal.
 
@@ -54,17 +55,7 @@ Key findings showed that:
 
 These findings highlight how dignity can be eroded not only through suffering, but through the normalisation of that suffering.
 
-## Repository Structure
-├── README.md # Project documentation
-│
-├── notebooks/ # Google Colab notebooks
-│ ├── 01_DataExploration.ipynb
-│ ├── 02_DataPreprocessing.ipynb
-│ ├── 03_ModelTraining.ipynb
-│ ├── 04_Explainability.ipynb
-│
-├── data/ # Survey data (anonymised)
-├── figures/ # Plots and visualisations
+![Pads saving dignity](figures/ELO2 (3).png)
 
 ## Author
 Solara Hamza  
