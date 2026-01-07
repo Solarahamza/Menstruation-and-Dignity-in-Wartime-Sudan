@@ -25,7 +25,7 @@ What factors influence whether Sudanese women perceive their menstrual dignity a
 
 ## Methodology
 The analysis is based on survey data collected from 151 Sudanese women, 90 percent of whom were displaced or refugees at the time of participation.
-![Mother And Daughter](figures/ELO2 (4).png)
+![Mother And Daughter](figures/Mother.png)
 ### Data Exploration
 Initial exploration focused on participant demographics, displacement status, menstrual product use before and during the war, reported health symptoms, and access barriers related to cost, availability, quality, hygiene, privacy, and disposal.
 
