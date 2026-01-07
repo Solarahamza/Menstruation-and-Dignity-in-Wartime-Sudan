@@ -1,5 +1,4 @@
-# “I Prayed Not to Get My Period”
-## Menstruation and Dignity in Wartime Sudan
+# Menstruation and Dignity in Wartime Sudan
 ![Introduction](figures/ELO2.png)
 This repository explores whether menstrual dignity among Sudanese women has been affected during the ongoing war, and which factors most strongly influence women’s perceptions of dignity while managing their menstrual cycles in displacement and conflict settings.
 
